@@ -54,13 +54,6 @@ Before you can load the schemas, you will need JADE 2018 installed:
 **Q.** How can I take part in a JADE Developer's course?
 > We run our developer's courses a few times a year subject to demand. To register your interest, send an email to <<InsertContactDetailsHere>>
 
-## Authors
-> *Do we need Authors for a commercial git?*
-Janet
-* **Timothy Aitchison** - *Course 2018 update*
-
-* **Others** - *Specific contribution*
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
