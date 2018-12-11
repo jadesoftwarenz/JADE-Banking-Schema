@@ -1,6 +1,3 @@
-<a href="https://www.jadeworld.com/solutions-for/dev-partners/"><img src="" title="Jade Software" alt="Jade Software"></a>
-(Will be some kind of JADE banner)
-
 # JADE Example Schemas
 This repository contains a model answer for the banking schema implemented in the JADE Developer's Course.
 
