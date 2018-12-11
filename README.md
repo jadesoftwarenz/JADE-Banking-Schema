@@ -49,7 +49,7 @@ Before you can load the schemas, you will need JADE 2018 installed:
 > The schemas contained in this repository are for demonstration purposes and as such are not open to pull requests. However, you are welcome to create a fork and make changes to your own copy, subject to our license ([LICENSE.txt](LICENSE.txt))
 
 **Q.** How can I take part in a JADE Developer's course?
-> We run our developer's courses a few times a year subject to demand. To register your interest, send an email to <<InsertContactDetailsHere>>
+> We run our developer's courses a few times a year subject to demand. To register your interest, visit https://www.jadeworld.com/solutions-for/dev-partners/upgrade-services/enquire/#devtraining
 
 ## License
 
