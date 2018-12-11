@@ -5,7 +5,7 @@ This repository contains a model answer for the banking schema implemented in th
 
 Documentation for the Banking schema may be found at: <a href="https://www.jadeworld.com/docs/jade-71/content/resources/dotnetdev/ch3introtutorial/chapter3.htm">Banking Schema guide</a>
 
-The JADE developer's course material may be found at: <a href="https://www.jadeworld.com/docs/jade-71/content/resources/dotnetdev/ch3introtutorial/chapter3.htm">Developer's Course material</a>
+The JADE developer's course material may be found at: https://www.jadeworld.com/education/devcourse/JadeDevCourse.pdf
 
 ## Getting Started
 These instructions will get a copy of the projects up and running on your local machine.
