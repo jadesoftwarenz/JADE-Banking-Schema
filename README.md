@@ -19,7 +19,7 @@ Before you can load the schemas, you will need JADE 2018 installed:
 3. Open the installer and follow the instructions in the easy install wizard.
 4. JADE is now installed, and a shortcut has been placed in your Start menu. You're good to go!
 
-> For more detailed instructions for installing JADE, visit https://www.jadeworld.com/downloads/tech/manuals/2016/InstallConfig.pdf
+> For more detailed instructions for installing JADE, visit https://www.jadeworld.com/downloads/tech/manuals/2018/InstallConfig.pdf
 
 ### Loading the schemas using JADE Git Integration
 
