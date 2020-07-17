@@ -15,11 +15,11 @@ These instructions will get a copy of the projects up and running on your local 
 Before you can load the schemas, you will need JADE 2018 installed:
 
 1. Grab a FREE Developer's license at https://secure.jadeworld.com/devlicense/
-2. Download the JADE 2018 release at https://www.jadeworld.com/solutions-for/dev-partners/ 
+2. Download the JADE 2018 release at https://www.jadeworld.com/developer-center/download-jade
 3. Open the installer and follow the instructions in the easy install wizard.
 4. JADE is now installed, and a shortcut has been placed in your Start menu. You're good to go!
 
-> For more detailed instructions for installing JADE, visit https://www.jadeworld.com/downloads/tech/manuals/2018/InstallConfig.pdf
+> For more detailed instructions for installing JADE, visit https://secure.jadeworld.com/JADETech/JADE2018/Docs/InstallConfig.pdf
 
 ### Loading the schemas using JADE Git Integration
 
@@ -49,7 +49,7 @@ Before you can load the schemas, you will need JADE 2018 installed:
 > The schemas contained in this repository are for demonstration purposes and as such are not open to pull requests. However, you are welcome to create a fork and make changes to your own copy, subject to our license ([LICENSE.txt](LICENSE.txt))
 
 **Q.** How can I take part in a JADE Developer's course?
-> We run our developer's courses a few times a year subject to demand. To register your interest, visit https://www.jadeworld.com/solutions-for/dev-partners/upgrade-services/enquire/#devtraining
+> We run our developer's courses a few times a year subject to demand. To register your interest, visit https://www.jadeworld.com/developer-center/learn-jade
 
 ## License
 
