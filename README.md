@@ -3,7 +3,7 @@ This repository contains a model answer for the banking schema implemented in th
 
 ## Documentation Guide
 
-The JADE developer's course material may be found at: https://www.jadeworld.com/education/devcourse/JadeDevCourse.pdf
+The JADE developer's course material may be found at: https://secure.jadeworld.com/JADETech/Education/DevCourse/JadeDevCourse.pdf
 
 ## Getting Started
 These instructions will get a copy of the projects up and running on your local machine.
